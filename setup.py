@@ -30,7 +30,7 @@ setup(name='cantools',
           'bitstruct>=6.0.0',
           'python-can>=2.2.0',
           'textparser>=0.21.1',
-          'diskcache',
+          'diskcache>=4.1.0',
           'argparse_addons'
       ],
       test_suite="tests",
